@@ -2,29 +2,46 @@
 .heading-lasanga,
 .lasagna,
 .button,
+.bigheading-empanadas,
+.heading-empanadas,
+.smallheading-empanadas,
+.empanadas,
 p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .bigheading-lasanga,
-.heading-lasanga {
+.heading-lasanga,
+.bigheading-empanadas,
+.heading-empanadas {
     text-decoration: underline;
 }
 
-.bigheading-lasanga {
+.bigheading-lasanga,
+.bigheading-empanadas {
     font-size: x-large;
     font-weight: bolder;
     text-align: center;
 }
 
-.heading-lasanga {
+.heading-lasanga,
+.heading-empanadas {
     font-size: large;
+    font-weight: bold;
+}
+
+.smallheading-empanadas {
     font-weight: bold;
 }
 
 .lasagna {
     color: orange;
     background: orangered;
+}
+
+.empanadas {
+    color: brown;
+    background: burlywood;
 }
 
 .button {
