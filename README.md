@@ -1,1 +1,1 @@
-In this repository I, KleinHansi, will show my just learned HTML skills, which I learned on https://www.theodinproject.com/.
+In this repository I, KleinHansi, will show my newly learned HTML and CSS skills, that I learned on https://www.theodinproject.com/.
