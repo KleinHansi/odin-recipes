@@ -1,0 +1,32 @@
+.bigheading,
+.heading,
+.lasagna,
+.button,
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bigheading,
+.heading {
+    text-decoration: underline;
+}
+
+.bigheading {
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.heading {
+    font-size: large;
+    font-weight: bold;
+}
+
+.lasagna {
+    color: orange;
+    background: orangered;
+}
+
+.button {
+    color: white;
+    background-color: yellow;
+}
